@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Barshed/static/css/main.94269ccb.chunk.css",
-    "main.js": "/Barshed/static/js/main.9b74f2fd.chunk.js",
-    "main.js.map": "/Barshed/static/js/main.9b74f2fd.chunk.js.map",
-    "runtime-main.js": "/Barshed/static/js/runtime-main.4746268b.js",
-    "runtime-main.js.map": "/Barshed/static/js/runtime-main.4746268b.js.map",
-    "static/css/2.89f067aa.chunk.css": "/Barshed/static/css/2.89f067aa.chunk.css",
-    "static/js/2.d639447a.chunk.js": "/Barshed/static/js/2.d639447a.chunk.js",
-    "static/js/2.d639447a.chunk.js.map": "/Barshed/static/js/2.d639447a.chunk.js.map",
-    "index.html": "/Barshed/index.html",
-    "precache-manifest.4c658a4d824aa076c42c46c32b802e83.js": "/Barshed/precache-manifest.4c658a4d824aa076c42c46c32b802e83.js",
-    "service-worker.js": "/Barshed/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/Barshed/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.94269ccb.chunk.css.map": "/Barshed/static/css/main.94269ccb.chunk.css.map",
-    "static/js/2.d639447a.chunk.js.LICENSE.txt": "/Barshed/static/js/2.d639447a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Barshed/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Barshedul/static/css/main.94269ccb.chunk.css",
+    "main.js": "/Barshedul/static/js/main.b2631525.chunk.js",
+    "main.js.map": "/Barshedul/static/js/main.b2631525.chunk.js.map",
+    "runtime-main.js": "/Barshedul/static/js/runtime-main.205e89d3.js",
+    "runtime-main.js.map": "/Barshedul/static/js/runtime-main.205e89d3.js.map",
+    "static/css/2.89f067aa.chunk.css": "/Barshedul/static/css/2.89f067aa.chunk.css",
+    "static/js/2.d639447a.chunk.js": "/Barshedul/static/js/2.d639447a.chunk.js",
+    "static/js/2.d639447a.chunk.js.map": "/Barshedul/static/js/2.d639447a.chunk.js.map",
+    "index.html": "/Barshedul/index.html",
+    "precache-manifest.9d2a14d049f8cc464604b74ee02f2b5d.js": "/Barshedul/precache-manifest.9d2a14d049f8cc464604b74ee02f2b5d.js",
+    "service-worker.js": "/Barshedul/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/Barshedul/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.94269ccb.chunk.css.map": "/Barshedul/static/css/main.94269ccb.chunk.css.map",
+    "static/js/2.d639447a.chunk.js.LICENSE.txt": "/Barshedul/static/js/2.d639447a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Barshedul/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4746268b.js",
+    "static/js/runtime-main.205e89d3.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.d639447a.chunk.js",
     "static/css/main.94269ccb.chunk.css",
-    "static/js/main.9b74f2fd.chunk.js"
+    "static/js/main.b2631525.chunk.js"
   ]
 }
