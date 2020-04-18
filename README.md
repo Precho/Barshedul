@@ -1,4 +1,4 @@
-# PREVIEV : https://precho.github.io/Barshedul/
+# PREVIEW : https://precho.github.io/Barshedul/
 
 ## Available Scripts
 
